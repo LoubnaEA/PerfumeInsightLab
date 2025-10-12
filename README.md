@@ -28,11 +28,11 @@ Perfume analytics project, from raw data to scent-based insights.
 └─ README.md      → Project overview, structure, documentation
 
 ## Next Steps  
-- Load and explore the dataset structure  
-- Perform data cleaning and descriptive statistics  
-- Create visualizations and correlations between key attributes  
-- Build SQL tables for queries and relational analysis  
-- Add interactive dashboards or machine learning experiments
+Load and explore the dataset structure  
+Perform data cleaning and descriptive statistics  
+Create visualizations and correlations between key attributes  
+Build SQL tables for queries and relational analysis  
+Add interactive dashboards or machine learning experiments
 
 ## 🔗 Dataset  
 [Fragrantica.com Fragrance Dataset on Kaggle](https://www.kaggle.com/datasets/olgagmiufana1/fragrantica-com-fragrance-dataset)
