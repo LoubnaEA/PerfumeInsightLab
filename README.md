@@ -6,7 +6,7 @@ A complete end-to-end **EDA** project combining **data quality assurance**, **ex
 ---
 
 ## Overview  
-**PerfumeInsightLab** explores perfume data to uncover how brands, notes, accords, creative trends have evolved over time.  
+**`PerfumeInsightLab`** explores perfume data to uncover how brands, notes, accords, creative trends have evolved over time.  
 The project bridges **QA methodology** and **Data Analysis**, ensuring that each analytical step is based on clean, validated and reproducible data.  
 
 ## Objectives
