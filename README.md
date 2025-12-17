@@ -34,7 +34,7 @@ The project bridges **QA methodology** and **Data Analysis**, ensuring that each
 
 ## Structure
 ├─ 📁 data/       → Raw perfume datasets, processed (cleaned) data, optional external sources (complementary data for enrichment)    
-├─ 📁 docs/       →   
+├─ 📁 docs/       → HTML exports of Jupyter notebooks (for GitHub Pages / interactive viewing)  
 ├─ 📁 notebooks/  → Jupyter notebooks for data exploration, cleaning, visualization and insights generation  
 ├─ 📁 reports/    → Visual outputs, summary notes, figures generated from the analysis  
 ├─ 📁 scripts/    → Python scripts for reusable EDA functions, preprocessing and chart generation  
