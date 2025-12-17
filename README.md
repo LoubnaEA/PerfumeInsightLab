@@ -32,6 +32,11 @@ The project bridges **QA methodology** and **Data Analysis**, ensuring that each
 | **03 Quantitative EDA**| Visual and numerical analysis of ratings, popularity, temporal trends. Weighted metrics (`C`, `m`) applied to evaluate perfume performance and stability over decades. |
 | **04 Storytelling & Insights** | Integrates all previous findings into a coherent narrative. Analyzes unisex trends, olfactory patterns, brand evolution to draw data-driven insights on market dynamics. |
 
+- [01 – Data Overview](https://loubnaea.github.io/PerfumeInsightLab/01_DataOverview.html)
+- [02 – Core EDA](https://loubnaea.github.io/PerfumeInsightLab/02_EDA.html)
+- [03 – Advanced EDA](https://loubnaea.github.io/PerfumeInsightLab/03_EDA.html)
+- [04 – Feature Insights](https://loubnaea.github.io/PerfumeInsightLab/04_EDA.html)
+
 ## Structure
 ├─ 📁 data/       → Raw perfume datasets, processed (cleaned) data, optional external sources (complementary data for enrichment)    
 ├─ 📁 notebooks/  → Jupyter notebooks for data exploration, cleaning, visualization and insights generation  
