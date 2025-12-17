@@ -1,5 +1,7 @@
 # PerfumeInsightLab 
 
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-live-success)](https://loubnaea.github.io/PerfumeInsightLab/)
+
 From raw fragrance data to olfactory insights.   
 A complete end-to-end **EDA** project combining **data quality assurance**, **exploratory analysis** and **visual storytelling**.
 
@@ -20,9 +22,39 @@ The project bridges **QA methodology** and **Data Analysis**, ensuring that each
 - **Python 3**
 - **Pandas, NumPy** (data cleaning & manipulation)  
 - **Matplotlib, Seaborn, Plotly, WordCloud** (visualisation)
-- **Custom Python scripts**, **Pandas profiling** (data valisation & QA)
+- **Custom Python scripts**, **Pandas profiling** (data validation & QA)
 - **SQL** / **SSMS** (queries and database exploration) 
 - **Jupyter Notebooks**, **Markdown reports** (documentation)
+
+## How to explore `PerfumeInsightLab`  
+This repository separates analysis code from rendered outputs to keep the project clear, readable and easy to explore.  
+
+### Explore the EDA (no code required)
+The full exploratory analysis is available as interactive HTML pages hosted via GitHub Pages.
+
+➡️ **Main entry point (Data Overview) :** https://loubnaea.github.io/PerfumeInsightLab/
+
+➡️ **Extended EDA sections**  
+These pages allow reviewers to explore results directly, without running any notebook.  
+- Thematic exploration (brands, perfumers, accords, gender)  
+- Quantitative analysis (ratings, popularity, temporal trends)  
+- Storytelling and cross-dimensional insights
+
+### Reproducible source notebooks
+Each notebook can be executed locally to fully reproduce the results shown in the HTML reports.  
+All analyses are implemented in clean, output-free Jupyter notebooks : 📁 `notebooks/`  
+
+They document :  
+- Data validation and cleaning steps
+- Exploratory logic and metrics
+- Assumptions and analytical choices
+
+### QA & Data Quality approach
+The project emphasizes :
+- Data consistency and validation checks
+- Handling of missing values and duplicates
+- Metric stability and interpretability
+- Clear traceability from raw data to insights
 
 ## Notebooks
 | Notebook | Description |
@@ -44,4 +76,5 @@ The project bridges **QA methodology** and **Data Analysis**, ensuring that each
 [Fragrantica.com Fragrance Dataset on Kaggle](https://www.kaggle.com/datasets/olgagmiufana1/fragrantica-com-fragrance-dataset)
 
 ## Last Note 🌸
-This project reflects a **QA-minded approach to Data Analysis**, insights are not only visually appealing, but also **validated, reproducible** and **trustworthy**.
+This project reflects a **QA-minded approach to data analysis**, with a strong focus on **clarity**, **validation** and **reproducibility**.  
+
