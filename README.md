@@ -27,7 +27,7 @@ The project bridges **QA methodology** and **Data Analysis**, ensuring that each
 ## Notebooks
 | Notebook | Description |
 |----------|-------------|
-| **01** [Data Overview](https://loubnaea.github.io/PerfumeInsightLab/01_DataOverview.html)  | Data loading, structure validation, missing-value analysis and duplicate removal. Defines the core cleaned dataset (`fra_cleaned_v2.csv`) and documents data quality metrics. |
+| **01** [Data Overview](https://loubnaea.github.io/PerfumeInsightLab/)  | Data loading, structure validation, missing-value analysis and duplicate removal. Defines the core cleaned dataset (`fra_cleaned_v2.csv`) and documents data quality metrics. |
 | **02** [Thematic EDA](https://loubnaea.github.io/PerfumeInsightLab/02_EDA.html)   | Categorical exploration by brand, perfumer, gender, country, olfactory accords. Highlights patterns in brand output, creative collaborations, main scent families. |
 | **03** [Quantitative EDA](https://loubnaea.github.io/PerfumeInsightLab/03_EDA.html) | Visual and numerical analysis of ratings, popularity, temporal trends. Weighted metrics (`C`, `m`) applied to evaluate perfume performance and stability over decades. |
 | **04** [Storytelling & Insights](https://loubnaea.github.io/PerfumeInsightLab/04_EDA.html) | Integrates all previous findings into a coherent narrative. Analyzes unisex trends, olfactory patterns, brand evolution to draw data-driven insights on market dynamics. |
