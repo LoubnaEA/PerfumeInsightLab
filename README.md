@@ -29,13 +29,13 @@ The project bridges **QA methodology** and **Data Analysis**, ensuring that each
 ## How to explore `PerfumeInsightLab`  
 This repository separates analysis code from rendered outputs to keep the project clear, readable and easy to explore.  
 
-### Explore the EDA (no code required)
+### Explore the EDA  
 The full exploratory analysis is available as interactive HTML pages hosted via GitHub Pages.
 
 ➡️ **Main entry point (Data Overview) :** https://loubnaea.github.io/PerfumeInsightLab/
 
 ➡️ **Extended EDA sections**  
-These pages allow reviewers to explore results directly, without running any notebook.  
+These pages allow for direct exploration of the results, without running any notebooks.  
 - Thematic exploration (brands, perfumers, accords, gender)  
 - Quantitative analysis (ratings, popularity, temporal trends)  
 - Storytelling and cross-dimensional insights
@@ -57,7 +57,7 @@ The project emphasizes :
 - Clear traceability from raw data to insights
 
 ## Notebooks
-| Notebook | Description |
+| ➡️ Notebook | Description |
 |----------|-------------|
 | **01** [Data Overview](https://loubnaea.github.io/PerfumeInsightLab/)  | Data loading, structure validation, missing-value analysis and duplicate removal. Defines the core cleaned dataset (`fra_cleaned_v2.csv`) and documents data quality metrics. |
 | **02** [Thematic EDA](https://loubnaea.github.io/PerfumeInsightLab/02_EDA.html)   | Categorical exploration by brand, perfumer, gender, country, olfactory accords. Highlights patterns in brand output, creative collaborations, main scent families. |
